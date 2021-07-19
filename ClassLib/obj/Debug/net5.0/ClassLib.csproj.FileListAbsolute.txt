@@ -1,0 +1,12 @@
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\bin\Debug\net5.0\ClassLib.deps.json
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\bin\Debug\net5.0\ClassLib.dll
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\bin\Debug\net5.0\ref\ClassLib.dll
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\bin\Debug\net5.0\ClassLib.pdb
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.csproj.AssemblyReference.cache
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.AssemblyInfo.cs
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.dll
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ref\ClassLib.dll
+C:\Users\wanja\Desktop\PROJECTS\week8\ConsoleCalculator\ClassLib\obj\Debug\net5.0\ClassLib.pdb
